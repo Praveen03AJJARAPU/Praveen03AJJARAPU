@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen03ajjarapu&label=Profile%20views&color=0e75b6&style=flat" alt="praveen03ajjarapu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/praveen ajjarapu" target="blank"><img src="https://img.shields.io/twitter/follow/praveen ajjarapu?logo=twitter&style=for-the-badge" alt="praveen ajjarapu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Praveen_ajj" target="blank"><img src="https://img.shields.io/twitter/follow/Praveen_ajj?logo=twitter&style=for-the-badge" alt="Praveen ajjarapu" /></a> </p>
 
 - 🌱 I’m currently learning **React, Redux**
 
