@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/Praveen_ajj" target="blank"><img src="https://img.shields.io/twitter/follow/Praveen_ajj?logo=twitter&style=for-the-badge" alt="Praveen ajjarapu" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **front-end**
 
 - 📫 How to reach me **saipraveenajjrapu@gmail.com**
 
