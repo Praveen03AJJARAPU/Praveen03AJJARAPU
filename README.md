@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/Praveen_ajj" target="blank"><img src="https://img.shields.io/twitter/follow/Praveen_ajj?logo=twitter&style=for-the-badge" alt="Praveen ajjarapu" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Mongo & Express**
 
 - 💬 Ask me about **front-end**
 
